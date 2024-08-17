@@ -1,3 +1,4 @@
+# FRIDAY-Voice-Assistant
 This voice assistant is based on python. I have used various different libraries so before using this project, try to explore all the packages and modules. 
 This assistant will work to its next level finctionalities if and only if you have the paid subscription of OpenAI ( ChatGPT ). 
 This subscription will get you an API Key that you will use in this project. Please do not share your API Keys with anyone as it may get expired.
